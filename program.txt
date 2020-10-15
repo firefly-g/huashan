@@ -1,3 +1,12 @@
 图形化 git使用练习
 
 第二次进行编辑：烟雨入江南
+
+
+
+
+
+branch:
+  method
+  show
+  main
